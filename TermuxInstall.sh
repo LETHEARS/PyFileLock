@@ -1,16 +1,16 @@
-# @G4rip - < https://t.me/G4rip >
-# Copyright (C) 2022
-# Tüm hakları saklıdır.
+# Designer - < L Y R E X >
+# Copyright (C) 2024
+# Tüm Hakları Saklıymış.
 #
-# Bu dosya, < https://github.com/aylak-github/PyFileLock > parçasıdır.
-# Lütfen GNU Affero Genel Kamu Lisansını okuyun;
+# Bu Dosya, < https://github.com/aylak-github/PyFileLock > Parçasıdır.
+# Lütfen GNU Affero Genel Kamu Lisansını Okuyun;
 # < https://www.github.com/aylak-github/PyFileLock/blob/master/LICENSE/ >
 # ================================================================
 
-DOGE="🔐 PyFileLock kütüphanesi kuruluyor..."
-INFOX="📣 Telegram: @G4rip"
+DOGE="🔐 PyFileLock Kütüphanesi Kuruluyor..."
+INFOX="📣 Designer : L Y R E X"
 INFOX+="\n "
-INFOX+="\n💬 Destek Grubu: @RepoHaneX"
+INFOX+="\n💬 Destek Grubu:  "
 INFOX+="\n "
 INFOX+="\n💫 İŞLEM DEVAM EDERKEN UYGULAMADAN AYRILMAYIN!"
 PACKAGEX="\n⏳ PAKETLERİ GÜNCELLİYORUM..."
